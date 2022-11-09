@@ -16,6 +16,6 @@
 <div align="center">
     <h1>STEI - IF</h1>
     <a href = "https://github.com/IceTeaXXD/">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=IceTeaXXD&theme=radical&repo=Praktikum-Daspro-2022"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=IceTeaXXD&theme=radical&repo=Praktikum-Daspro-2022" height=150/>
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=IceTeaXXD&theme=radical&repo=STEI-Introduction-To-Computation"/>
     </a>
