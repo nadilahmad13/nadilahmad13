@@ -1,9 +1,21 @@
-<h1 align="center">Statistics</h1>
+<div align="center">
+    <h1>Stats</h1>
+    <a href = "https://github.com/IceTeaXXD/">
+        <img src="https://github-readme-stats.vercel.app/api?username=IceTeaXXD&hide=issues&count_private=true&show_icons=true&theme=radical" height=164/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IceTeaXXD&layout=compact&theme=radical&hide=jupyter-notebook,"/>
+    </a>
 
-[![IceTeaXXD's GitHub stats](https://github-readme-stats.vercel.app/api?username=IceTeaXXD&hide=issues&count_private=true&show_icons=true&theme=radical)](https://github.com/IceTeaXXD/IceTeaXXD)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IceTeaXXD&layout=compact&theme=radical&hide=jupyter-notebook,)](https://github.com/IceTeaXXD/IceTeaXXD)
+<div align="center">
+    <h1>Projects</h1>
+    <a href = "https://github.com/IceTeaXXD/">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=IceTeaXXD&theme=radical&repo=Algeo01-21006"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=IceTeaXXD&theme=radical&repo=Tubes-Daspro-Kelompok-1"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=IceTeaXXD&theme=radical&repo=Tubes-PRD-AStar"/>
+    </a>
 
-<h1 align="center">Projects</h1>
-
-[![Algeo01-21006 Pin](https://github-readme-stats.vercel.app/api/pin/?username=IceTeaXXD&theme=radical&repo=Algeo01-21006)](https://github.com/IceTeaXXD/Algeo01-21006)
-[![Tubes-Daspro-Kelompok-1 Pin](https://github-readme-stats.vercel.app/api/pin/?username=IceTeaXXD&theme=radical&repo=Tubes-Daspro-Kelompok-1)](https://github.com/IceTeaXXD/Tubes-Daspro-Kelompok-1)
+<div align="center">
+    <h1>STEI - IF</h1>
+    <a href = "https://github.com/IceTeaXXD/">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=IceTeaXXD&theme=radical&repo=Praktikum-Daspro-2022"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=IceTeaXXD&theme=radical&repo=STEI-Introduction-To-Computation"/>
+    </a>
