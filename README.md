@@ -1,4 +1,7 @@
 <div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7006E&center=true&vCenter=true&width=435&lines=Ahmad+Nadil;13521024;Bandung+Institute+of+Technology" alt="Typing SVG"/></a>
+
+<div align="center">
     <h1>Stats</h1>
     <a href = "https://github.com/IceTeaXXD/">
         <img src="https://github-readme-stats.vercel.app/api?username=IceTeaXXD&hide=issues&count_private=true&show_icons=true&theme=radical" height=164/>
