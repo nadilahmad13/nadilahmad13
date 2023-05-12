@@ -6,8 +6,8 @@
     <h1>Stats</h1>
     <a href = "https://github.com/IceTeaXXD/">
         <img src="https://github-readme-activity-graph.cyclic.app/graph?username=IceTeaXXD&theme=dracula" />
-        <img src="https://github-profile-trophy.vercel.app/?username=IceTeaXXD&column=-1&theme=dracula" />
-        <img src="https://github-readme-stats.vercel.app/api?username=IceTeaXXD&hide=issues&count_private=true&show_icons=true&theme=dracula" height=164/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IceTeaXXD&layout=compact&theme=dracula"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=IceTeaXXD&column=-1&theme=dracula&rank=-C,-B,-?" />
+        <img src="https://github-readme-stats.vercel.app/api?username=IceTeaXXD&hide=issues&count_private=true&show_icons=true&theme=dracula" height=215/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IceTeaXXD&layout=compact&theme=dracula&langs_count=10&hide=jupyter notebook"/>
     </a>
 </div>
