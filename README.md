@@ -6,8 +6,11 @@
     <h1>Stats</h1>
     <a href = "https://github.com/IceTeaXXD/">
         <img src="https://github-readme-activity-graph.cyclic.app/graph?username=IceTeaXXD&theme=dracula" />
+        <br>
         <img src="https://github-profile-trophy.vercel.app/?username=IceTeaXXD&column=-1&theme=dracula&rank=-C,-B,-?" />
+        <br>
         <img src="https://github-readme-stats.vercel.app/api?username=IceTeaXXD&hide=issues&count_private=true&show_icons=true&theme=dracula" height=200/>
+        <br>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IceTeaXXD&layout=compact&theme=dracula&langs_count=10&exclude_repo=K3-T1-IF2220-13521003-13521024" width=300/>
     </a>
 </div>
