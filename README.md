@@ -5,7 +5,7 @@
 <div align="center">
     <h1>Stats</h1>
     <a href = "https://github.com/IceTeaXXD/">
-        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=IceTeaXXD&theme=dracula" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=iceteaxxd&theme=dracula" />
         <br>
         <img src="https://github-profile-trophy.vercel.app/?username=IceTeaXXD&column=-1&theme=dracula&rank=-C,-B,-?" />
         <br>
