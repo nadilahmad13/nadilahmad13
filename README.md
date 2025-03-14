@@ -16,5 +16,5 @@
         <br>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadilahmad13&layout=compact&theme=dracula&langs_count=10&exclude_repo=K3-T1-IF2220-13521003-13521024,Tucil2_13521015_13521024" width=300/>
         <br>
-        <img src="https://visitcount.itsvg.in/api?id=nadilahmad13&icon=0&color=12" alt="Visit Count"/>
+        <img src="https://komarev.com/ghpvc/?username=nadilahmad13&color=ff69b4" alt="Visit Count"/>
 </div>
