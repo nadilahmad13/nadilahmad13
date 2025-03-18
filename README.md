@@ -14,7 +14,7 @@
         <br>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadilahmad13&theme=dracula&hide_border=false" height=200/>
         <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadilahmad13&layout=compact&theme=dracula&langs_count=10&exclude_repo=K3-T1-IF2220-13521003-13521024,Tucil2_13521015_13521024" width=300/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadilahmad13&layout=compact&theme=dracula&langs_count=10&exclude_repo=K3-T1-IF2220-13521003-13521024,Tucil2_13521015_13521024,Paralel-Matrix-Inverse" width=300/>
         <br>
         <img src="https://komarev.com/ghpvc/?username=nadilahmad13&color=ff69b4" alt="Visit Count"/>
 </div>
